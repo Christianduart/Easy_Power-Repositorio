@@ -85,6 +85,10 @@ Empresas de engenharia e locação de maquinário pesado costumam perder o contr
 * Supabase Storage (para armazenamento de imagens da frota)
 * Políticas de Segurança RLS (Row Level Security)
 
+**Desenvolvimento & Ferramentas:**
+
+* AI-Assisted Development: Google Gemini (como assistente de Pair Programming para auxílio na tipagem avançada do TypeScript, otimização de queries e refatoração de componentes).
+
 ---
 
 ## ⚙️ Arquitetura do Sistema
@@ -99,7 +103,6 @@ O fluxo de gerenciamento de dados segue a estrutura:
 
 ## 👨‍💻 Autor
 
-**Christian Duarte** Graduando em Ciência da Computação (5º período) pela Universidade Anhanguera
-Desenvolvi este sistema full-stack para aplicar meus conhecimentos em integrações de banco de dados, tipagem estática e arquitetura de componentes escaláveis.
+**Christian Duarte** Graduando em Ciência da Computação (5º período) pela Universidade Anhanguera. Desenvolvi este sistema full-stack para aplicar meus conhecimentos em integrações de banco de dados, tipagem estática e arquitetura de componentes escaláveis. Durante o desenvolvimento, utilizei o Google Gemini como assistente de inteligência artificial, o que me permitiu acelerar o debugging e aplicar boas práticas estruturais no código.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christianduart)
